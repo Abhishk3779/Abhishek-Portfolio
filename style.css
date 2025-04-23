@@ -651,7 +651,7 @@ marquee{
 @keyframes first {
     0%{
         transform:scale(0.5);
-        opacity: 0;
+        opacity: 0.8;
     }
     100%{
         transform: scale(1);
@@ -687,7 +687,7 @@ marquee{
     display: flex;
     flex-direction: column;
     gap: 10px;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 .project-1:hover{
