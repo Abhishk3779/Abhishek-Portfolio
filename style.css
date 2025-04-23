@@ -647,15 +647,14 @@ marquee{
     padding-top: 70px;
     animation: first ease ;
     animation-timeline:view();
+    animation-range: entry 10% cover 40%;
 }
 @keyframes first {
     0%{
-        transform:scale(0.5);
-        opacity: 0;
+        transform:scale(0.6);
     }
     100%{
         transform: scale(1);
-        opacity: 1;
     }
 }
 .projects-parent h2{
