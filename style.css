@@ -647,11 +647,11 @@ marquee{
     padding-top: 70px;
     animation: first 1s ease ;
     animation-timeline:view();
-    animation-range:entry 5% cover 40%;
+    animation-range:entry 10% cover 60%;
 }
 @keyframes first {
     0%{
-        transform:scale(0.7);
+        transform:scale(0.5);
     }
     100%{
         transform: scale(1);
