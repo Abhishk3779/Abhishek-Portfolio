@@ -1002,7 +1002,7 @@ textarea::placeholder{
     marquee{
         padding: 3px;
         font-size: 10px;
-        top:33px
+        top:25px
     }
     .hero-banner{
         padding: 20px 0px;
@@ -1030,7 +1030,7 @@ textarea::placeholder{
         margin: 0;
     }
     .herobanner-child-1 button{
-        width: 24%;
+        width: 20%;
         margin: 10px 0 0 0;
         padding: 3px 15px;
         border: 1px solid #1aafcd;
